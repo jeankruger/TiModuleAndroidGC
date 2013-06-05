@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: androidgc
+moduleid: ti.nartex.androidgc
+guid: e35d4801-c281-437d-8dbc-8587580b57de
+platform: android
+minsdk: 2.1.3.GA
